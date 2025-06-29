@@ -237,18 +237,7 @@ The system uses a sophisticated ensemble of three CNN models:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- **Research Paper**: Based on "Enhanced ore classification through optimized CNN ensembles and feature fusion"
-- **UI Components**: Built with Shadcn/ui and Radix UI
-- **Icons**: Lucide React icon library
-- **Styling**: Tailwind CSS framework
-
-## 📞 Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
----
 
 **Made with ❤️ for the geological and mining community**
 "# ore-vision-ensemble-classify" 
