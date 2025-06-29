@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- Simplified crystal design for favicon -->
+  <g>
+    <!-- Main crystal -->
+    <path d="M16 2L22 12L16 22L10 12L16 2Z" fill="#3B82F6" stroke="#1E40AF" stroke-width="1"/>
+    
+    <!-- Secondary crystal -->
+    <path d="M13 15L19 22L13 29L7 22L13 15Z" fill="#60A5FA" stroke="#1E40AF" stroke-width="0.5"/>
+    
+    <!-- Small accent -->
+    <path d="M19 15L25 22L19 29L13 22L19 15Z" fill="#60A5FA" stroke="#1E40AF" stroke-width="0.5"/>
+  </g>
+</svg> 
